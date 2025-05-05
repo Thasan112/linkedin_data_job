@@ -1,5 +1,6 @@
 # linkedin_data_job
 📌 Project Overview
+
 This project explores a dataset of LinkedIn job postings in the data domain (e.g., Data Analyst, Data Scientist, Data Engineer). 
 The goal is to uncover hiring trends by job titles,companies ,skills locations and company preferences.
 
