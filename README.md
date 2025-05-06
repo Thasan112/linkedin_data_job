@@ -17,7 +17,6 @@ CSV dataset( from Kaggle ) scraped from LinkedIn job listings
 
 Data Cleaning & EDA
 🔍 Key Insights
-🔍 Insight
 AI Specialist Roles are the most in-demand, appearing in over 100 job postings—significantly higher than any other cluster.
 This is followed by Other Roles, Data Analyst Roles, and Data Scientist & ML Roles, while Cloud Engineer Roles had the fewest listings in this dataset.
 
